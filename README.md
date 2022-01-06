@@ -1,2 +1,3 @@
 ### Hello world ✌️
-[ildar.dev](https://ildar.dev)
+[![Ildar's GitHub stats](https://ildar.dev/stat.svg)](https://ildar.dev)
+### [ildar.dev](https://ildar.dev)
